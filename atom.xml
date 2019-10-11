@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://junark.com</id>
     <title>炳瑞律师险法工作室</title>
-    <updated>2019-10-11T02:05:11.105Z</updated>
+    <updated>2019-10-11T03:12:58.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://junark.com"/>
     <link rel="self" href="https://junark.com/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://junark.com/images/avatar.png</logo>
     <icon>https://junark.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 炳瑞律师险法工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[INS | 保险公司还能这么说？]]></title>
+        <id>https://junark.com/post/insurer-of-the-future</id>
+        <link href="https://junark.com/post/insurer-of-the-future">
+        </link>
+        <updated>2019-09-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="01-自我介绍">01 自我介绍</h1>
+<p>大家好，我是Red君。这是INS专栏的第一篇文章。今天的话题是：保险公司的时髦说法。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="01-自我介绍">01 自我介绍</h1>
+<p>大家好，我是Red君。这是INS专栏的第一篇文章。今天的话题是：保险公司的时髦说法。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保险赔与不赔的底层逻辑（1）--近因原则]]></title>
         <id>https://junark.com/post/compensate-or-not</id>
